@@ -72,7 +72,7 @@ class App extends React.Component {
         <RenderItem cartanim= {this.cartanim} backanim = {this.backanim}anim = {this.anim} remFromCart = {this.removeFromCart} itemForRender={this.state.choosenItem} mInf={this.mInf} data = {this.state.data} isMoreInfActive = {this.state.Minf} addToCart = {this.addToCart} itemsInCart={this.state.itemToCart}/>
         
       </main>
-      <footer>all data on this page is invalid</footer>
+      <footer>all data on this website is invalid</footer>
     </div>
   )
 }
